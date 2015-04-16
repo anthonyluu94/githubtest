@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class gittest : MonoBehaviour {
+public class MyZambie : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
